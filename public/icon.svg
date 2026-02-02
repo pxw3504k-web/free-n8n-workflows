@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <!-- 渐变背景：从亮粉色到深紫色 -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff00ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8b00ff;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- 圆角正方形背景 -->
+  <rect width="512" height="512" rx="96" ry="96" fill="url(#bgGradient)"/>
+  
+  <!-- 中心标识：网络/连接符号 -->
+  <g transform="translate(256, 256) scale(10) translate(-12, -12)" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="5" r="2"></circle>
+    <circle cx="5" cy="19" r="2"></circle>
+    <circle cx="19" cy="19" r="2"></circle>
+    <path d="M12 7v12"></path>
+    <path d="M12 12H5"></path>
+    <path d="M12 12h7"></path>
+  </g>
+</svg>

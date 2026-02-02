@@ -9,9 +9,25 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@google-cloud/storage": "^6.10.0",
+    "@supabase/supabase-js": "^2.88.0",
+    "@types/uuid": "^10.0.0",
+    "@vercel/og": "^0.8.6",
+    "@xyflow/react": "^12.10.0",
+    "clsx": "^2.1.1",
+    "date-fns": "^4.1.0",
+    "dotenv": "^17.2.3",
+    "framer-motion": "^12.23.26",
+    "jszip": "^3.10.1",
+    "lucide-react": "^0.561.0",
+    "motion": "^12.23.26",
     "next": "16.0.10",
+    "qrcode.react": "^4.2.0",
     "react": "19.2.1",
-    "react-dom": "19.2.1"
+    "react-dom": "19.2.1",
+    "react-markdown": "^10.1.0",
+    "tailwind-merge": "^3.4.0",
+    "uuid": "^13.0.0"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",

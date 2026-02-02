@@ -1,0 +1,29 @@
+{
+  "submit": {
+    "title": "Submit Your Workflow",
+    "subtitle": "Share your automation magic with the world.",
+    "form": {
+      "title_label": "Workflow Title",
+      "description_label": "Description",
+      "json_label": "Workflow Code (JSON)",
+      "json_placeholder": "Paste the code from n8n editor...",
+      "author_name_label": "Author Name",
+      "author_url_label": "Author Website / Twitter",
+      "author_reward_hint": "🚀 Reward: Your link will be displayed to thousands of users if featured!",
+      "submit_btn": "Submit for Review"
+    },
+    "success": "Thank you for your submission! We will review it within 24 hours.",
+    "errors": {
+      "titleTooShort": "Title must be at least 5 characters.",
+      "nodesInvalid": "Workflow JSON is invalid.",
+      "authorUrlInvalid": "Author URL is invalid. Use http(s) format.",
+      "missingFields": "Please fill in the required fields.",
+      "serverError": "Server error. Please try again later."
+    }
+  },
+  "trending": {
+    "description": "These are the most popular automations saving people 10+ hours this week."
+  }
+}
+
+

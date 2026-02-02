@@ -1,0 +1,29 @@
+{
+  "submit": {
+    "title": "提交您的工作流",
+    "subtitle": "我们会自动变成多语言，与世界分享您的自动化成果",
+    "form": {
+      "title_label": "工作流标题",
+      "description_label": "描述",
+      "json_label": "工作流代码 (JSON)",
+      "json_placeholder": "请粘贴从 n8n 编辑器复制的代码...",
+      "author_name_label": "作者姓名",
+      "author_url_label": "作者网站 / 推特",
+      "author_reward_hint": "🚀 奖励：如果被收录，您的链接将展示给成千上万的用户！",
+      "submit_btn": "提交审核"
+    },
+    "success": "感谢您上传成功！我们将会在24小时内审核。",
+    "errors": {
+      "titleTooShort": "标题至少需要 5 个字符。",
+      "nodesInvalid": "工作流 JSON 无效。",
+      "authorUrlInvalid": "作者链接无效，请使用 http(s) 格式。",
+      "missingFields": "请填写必填字段。",
+      "serverError": "服务器错误，请稍后重试。"
+    }
+  },
+  "trending": {
+    "description": "这些是本周最受欢迎的自动化工作流，帮助人们节省了 10+ 小时的时间。"
+  }
+}
+
+

@@ -9,31 +9,11 @@
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fpwj19960112%2Ffree-n8n-workflows)
 [![GitHub stars](https://img.shields.io/github/stars/pwj19960112/free-n8n-workflows?style=social)](https://github.com/pwj19960112/free-n8n-workflows)
 
-🚀 **1000+ 已验证的 n8n 自动化工作流** - 开源且免费下载。
+🚀 **8000+ 已验证的 n8n 自动化工作流** - 开源且免费下载。
 
 无需从零开始构建。发现、搜索并部署用于营销、销售、运营和 AI 自动化的生产级 n8n 工作流。
+<img width="2880" height="3986" alt="image" src="https://github.com/user-attachments/assets/d5bc24de-d4c2-4656-bddf-0a076914ee66" />
 
-## 📱 移动应用
-
-**使用我们的生产力工具解锁更多可能性：**
-
-### [App Name 1] - [一句话价值主张]
-
-扫描二维码或点击下载：
-
-![App 1 QR Code](https://placehold.co/200x200?text=App+1+QR)
-
-[从 App Store / Google Play 下载](#)
-
-### [App Name 2] - [一句话价值主张]
-
-扫描二维码或点击下载：
-
-![App 2 QR Code](https://placehold.co/200x200?text=App+2+QR)
-
-[从 App Store / Google Play 下载](#)
-
----
 
 ## 功能特性
 

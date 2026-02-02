@@ -9,7 +9,7 @@
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fpwj19960112%2Ffree-n8n-workflows)
 [![GitHub stars](https://img.shields.io/github/stars/pwj19960112/free-n8n-workflows?style=social)](https://github.com/pwj19960112/free-n8n-workflows)
 
-🚀 **1000+ Verified n8n Automation Workflows** - Open Source & Free to Download.
+🚀 **8000+ Verified n8n Automation Workflows** - Open Source & Free to Download.
 
 Stop building from scratch. Discover, search, and deploy production-ready n8n workflows for marketing, sales, operations, and AI automation.
 

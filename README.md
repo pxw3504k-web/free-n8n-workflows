@@ -1,14 +1,17 @@
 # Free n8n Workflows Collection
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fpwj19960112%2Ffree-n8n-workflows)
+[![GitHub stars](https://img.shields.io/github/stars/pwj19960112/free-n8n-workflows?style=social)](https://github.com/pwj19960112/free-n8n-workflows)
 
-A comprehensive collection of 1000+ verified n8n workflows, open-sourced for the community. This project provides a frontend interface to browse, search, and download n8n automation templates.
+🚀 **1000+ Verified n8n Automation Workflows** - Open Source & Free to Download.
+
+Stop building from scratch. Discover, search, and deploy production-ready n8n workflows for marketing, sales, operations, and AI automation.
 
 ## 📱 Mobile Apps
 
-Check out our other useful apps!
+**Unlock more possibilities with our productivity tools:**
 
-### [App Name 1]
+### [App Name 1] - [One Line Value Prop]
 
 Scan code or click to download:
 
@@ -16,7 +19,7 @@ Scan code or click to download:
 
 [Download on App Store / Google Play](#)
 
-### [App Name 2]
+### [App Name 2] - [One Line Value Prop]
 
 Scan code or click to download:
 

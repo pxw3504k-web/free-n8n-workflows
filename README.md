@@ -13,25 +13,7 @@
 
 Stop building from scratch. Discover, search, and deploy production-ready n8n workflows for marketing, sales, operations, and AI automation.
 
-## 📱 Mobile Apps
-
-**Unlock more possibilities with our productivity tools:**
-
-### [App Name 1] - [One Line Value Prop]
-
-Scan code or click to download:
-
-![App 1 QR Code](https://placehold.co/200x200?text=App+1+QR)
-
-[Download on App Store / Google Play](#)
-
-### [App Name 2] - [One Line Value Prop]
-
-Scan code or click to download:
-
-![App 2 QR Code](https://placehold.co/200x200?text=App+2+QR)
-
-[Download on App Store / Google Play](#)
+<img width="2880" height="3986" alt="image" src="https://github.com/user-attachments/assets/d5bc24de-d4c2-4656-bddf-0a076914ee66" />
 
 ---
 

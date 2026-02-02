@@ -1,5 +1,11 @@
 # Free n8n Workflows Collection
 
+<div align="center">
+
+[English](./README.md) | [简体中文](./README_zh.md) | [日本語](./README_ja.md) | [Español](./README_es.md)
+
+</div>
+
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fpwj19960112%2Ffree-n8n-workflows)
 [![GitHub stars](https://img.shields.io/github/stars/pwj19960112/free-n8n-workflows?style=social)](https://github.com/pwj19960112/free-n8n-workflows)
 

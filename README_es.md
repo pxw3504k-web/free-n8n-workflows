@@ -9,31 +9,11 @@
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fpwj19960112%2Ffree-n8n-workflows)
 [![GitHub stars](https://img.shields.io/github/stars/pwj19960112/free-n8n-workflows?style=social)](https://github.com/pwj19960112/free-n8n-workflows)
 
-🚀 **1000+ Flujos de Trabajo de n8n Verificados** - Código Abierto y Descarga Gratuita.
+🚀 **8000+ Flujos de Trabajo de n8n Verificados** - Código Abierto y Descarga Gratuita.
 
 Deja de construir desde cero. Descubre, busca y despliega flujos de trabajo de n8n listos para producción para marketing, ventas, operaciones y automatización con IA.
 
-## 📱 Aplicaciones Móviles
-
-**Desbloquea más posibilidades con nuestras herramientas de productividad:**
-
-### [App Name 1] - [Propuesta de Valor en una Línea]
-
-Escanea el código o haz clic para descargar:
-
-![App 1 QR Code](https://placehold.co/200x200?text=App+1+QR)
-
-[Descargar en App Store / Google Play](#)
-
-### [App Name 2] - [Propuesta de Valor en una Línea]
-
-Escanea el código o haz clic para descargar:
-
-![App 2 QR Code](https://placehold.co/200x200?text=App+2+QR)
-
-[Descargar en App Store / Google Play](#)
-
----
+<img width="2880" height="3986" alt="image" src="https://github.com/user-attachments/assets/d5bc24de-d4c2-4656-bddf-0a076914ee66" />
 
 ## Características
 

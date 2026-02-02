@@ -9,31 +9,11 @@
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fpwj19960112%2Ffree-n8n-workflows)
 [![GitHub stars](https://img.shields.io/github/stars/pwj19960112/free-n8n-workflows?style=social)](https://github.com/pwj19960112/free-n8n-workflows)
 
-🚀 **1000+ 検証済み n8n 自動化ワークフロー** - オープンソース & 無料ダウンロード。
+🚀 **8000+ 検証済み n8n 自動化ワークフロー** - オープンソース & 無料ダウンロード。
 
 ゼロから構築するのはやめましょう。マーケティング、セールス、オペレーション、AI自動化のための、本番環境ですぐに使えるn8nワークフローを発見、検索、デプロイできます。
 
-## 📱 モバイルアプリ
-
-**生産性ツールでさらなる可能性を解き放ちましょう：**
-
-### [App Name 1] - [一言での価値提案]
-
-コードをスキャンまたはクリックしてダウンロード：
-
-![App 1 QR Code](https://placehold.co/200x200?text=App+1+QR)
-
-[App Store / Google Play でダウンロード](#)
-
-### [App Name 2] - [一言での価値提案]
-
-コードをスキャンまたはクリックしてダウンロード：
-
-![App 2 QR Code](https://placehold.co/200x200?text=App+2+QR)
-
-[App Store / Google Play でダウンロード](#)
-
----
+<img width="2880" height="3986" alt="image" src="https://github.com/user-attachments/assets/d5bc24de-d4c2-4656-bddf-0a076914ee66" />
 
 ## 特徴
 

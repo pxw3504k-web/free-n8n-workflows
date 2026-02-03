@@ -1,95 +1,115 @@
-# 免费 n8n 工作流集合
+🚀 Free n8n Workflows Collection (免费 n8n 工作流合集)  
+[在此处插入你的 Twitter 链接: https://x.com/zoAoo6667168456] | [https://github.com/pxw3504k-web/free-n8n-workflows.git]
 
-<div align="center">
+全网最大的 n8n 验证工作流开源合集。停止重复造轮子。复制、粘贴、开始自动化。
 
-[English](./README.md) | [简体中文](./README_zh.md) | [日本語](./README_ja.md) | [Español](./README_es.md)
+---
 
-</div>
+### 📖 故事：为什么要开源？(The Story)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fpwj19960112%2Ffree-n8n-workflows)
-[![GitHub stars](https://img.shields.io/github/stars/pwj19960112/free-n8n-workflows?style=social)](https://github.com/pwj19960112/free-n8n-workflows)
+这个项目最初是一个在线的 n8n 模板搜索引擎（[n8nworkflows.world](https://n8nworkflows.world)）。
 
-🚀 **8000+ 已验证的 n8n 自动化工作流** - 开源且免费下载。
+然而，就在上周，我们的数据库遭到了大规模的爬虫攻击（主要来自兰州的数据中心）。这些机器人不是在浏览网页，而是在系统性地抓取数据，短短几天内产生了 **31GB 的出站流量 (Egress Traffic)**，导致服务器维护成本变得不可持续。
 
-无需从零开始构建。发现、搜索并部署用于营销、销售、运营和 AI 自动化的生产级 n8n 工作流。
+既然大家这么想要这些数据，我决定不再对抗，而是彻底开源。
+
+作为独立开发者，我认为自动化技术应该对所有人开放。现在，我将这 **8,000+ 个已验证的工作流数据** 全部开放下载。没有付费墙，没有服务器限制，没有 API 账单。
+
+如果你觉得这个项目对你有帮助，请给这个仓库点一个 Star ⭐️，这是对我最大的支持！
+
 <img width="2880" height="3986" alt="image" src="https://github.com/user-attachments/assets/d5bc24de-d4c2-4656-bddf-0a076914ee66" />
 
+---
 
-## 功能特性
+### 🎁 支持开发者 (Support the Developer)
 
-- 🔍 **搜索与过滤**：按类别、集成或关键词浏览工作流。
-- 📦 **一键下载**：即时获取已验证的 JSON 模板。
-- 🌐 **多语言支持**：支持英语和中文本地化。
-- ⚡ **高性能**：基于 Next.js 14 和 Supabase 构建，速度极快。
-- 🎨 **现代 UI**：整洁、响应式的界面，支持深色模式。
+维护这个开源项目是我的业余爱好。如果你想支持我的工作（或者保护你自己的数字生活），请看看我正在开发的两个新 App。它们是我能持续为社区“用爱发电”的动力。
 
-## 数据与备份
+#### 1. 🆘 LifelineSOS：家人守护 (Family Locator)
+**隐私优先的 Life360 替代品。** 我受够了那些贩卖用户数据的定位软件。
 
-本仓库包含完整的工作流数据库，确保即使原网站无法访问，数据依然可用。
+- **功能**：实时且私密的家人位置共享。
+- **亮点**：没有广告，不卖数据。紧急情况下一键 SOS 求救。
+- **状态**：即将发布内测。  
+👉 [填写表单 获取内测资格](https://forms.gle/AovsjCCybzuamHEo9)
 
-- **JSON 格式**：[`data/workflows.json`](./data/workflows.json) - 所有工作流的完整导出。
-- **SQL Schema**：[`data/schema.sql`](./data/schema.sql) - 用于自托管的数据库结构。
+#### 2. 🕵️‍♂️ 酒店防偷拍神器 (Hidden Camera Detector)
+**差旅人士必备的安全工具。**
 
-## 如何自托管 (Self-Host)
+- **功能**：利用手机磁传感器和网络扫描技术，检测酒店/Airbnb 房间内的隐藏摄像头。
+- **亮点**：保护你的隐私不被侵犯。
+- **状态**：开发中。  
+👉 [关注我的 Twitter 了解更多](https://x.com/zoAoo6667168456)
 
-你可以使用 Vercel 或 Docker 自行部署本项目。
+---
 
-### 选项 1：Vercel（推荐）& Supabase
+### ✨ 核心功能 (Features)
 
-1. **Fork 本仓库**。
-2. **创建一个 Supabase 项目**：
-   - 前往 [Supabase](https://supabase.com) 创建新项目。
-   - 在 Supabase SQL 编辑器中运行 [`data/schema.sql`](./data/schema.sql) 中的 SQL。
-   - 导入 [`data/workflows.json`](./data/workflows.json) 中的数据（你可能需要编写一个简单的脚本将 JSON 插入到 `workflows` 表中）。
-3. **部署到 Vercel**：
-   - 点击上方的 "Deploy with Vercel" 按钮，或在 Vercel 中导入你 fork 的仓库。
-   - 设置环境变量：
-     ```
-     NEXT_PUBLIC_SUPABASE_URL=你的项目URL
-     NEXT_PUBLIC_SUPABASE_ANON_KEY=你的anon key
-     NEXT_PUBLIC_SITE_URL=https://your-domain.com
-     ```
+- 🚀 **海量数据库**：收录了 8,000+ 个已验证的工作流，涵盖营销、DevOps、销售和 AI 自动化场景。
+- 🔍 **智能搜索**：代码中包含了完整的 Next.js 搜索引擎源码，支持按“角色”或“集成应用”筛选。
+- 📦 **JSON 直读**：提供原始 JSON 文件下载，直接导入 n8n 即可使用。
+- ⚡ **现代技术栈**：基于 Next.js 14, Tailwind CSS 和 Supabase 构建。
+- 🛡️ **支持自部署**：数据在你手中。你可以将此项目部署在自己的 Vercel 或服务器上。
 
-### 选项 2：Docker（本地 / VPS）
+---
 
-1. **克隆仓库**：
+### 📂 数据获取 (Data Access)
 
-   ```bash
-   git clone https://github.com/yourusername/free-n8n-workflows.git
-   cd free-n8n-workflows
-   ```
+如果你不想运行网站，只是单纯想要数据，我们已经为你准备好了：
 
-2. **设置环境**：
+- **完整 JSON 数据**：请查看目录 `/data/workflows.json`
+- **SQL 数据库结构**：请查看目录 `/data/schema.sql` (适用于 PostgreSQL/Supabase)
 
-   ```bash
-   cp env.example .env.local
-   # 编辑 .env.local 填入你的 Supabase 凭证
-   ```
+---
 
-3. **使用 Docker 运行**：
+### 🛠️ 安装与自部署 (Installation)
 
-   ```bash
-   docker build -t n8n-workflows .
-   docker run -p 3000:3000 n8n-workflows
-   ```
+你可以通过以下两种方式运行你自己的 n8n 搜索站。
 
-4. **数据库设置**：
-   你需要一个 Postgres 数据库（或本地 Supabase 实例）。
-   - 使用 `data/schema.sql` 初始化数据库。
-   - 从 `data/workflows.json` 加载数据。
+#### 方法 1：使用 Vercel 一键部署 (推荐)
 
-## 开发
+1. Fork 本仓库。
+2. 在 Supabase 创建一个新项目，并运行 `/data/schema.sql` 建立表结构。
+3. 在 Vercel 中导入你 Fork 的仓库，配置好 Supabase 的环境变量 (`NEXT_PUBLIC_SUPABASE_URL` 等)。
+4. 点击部署，即可拥有你自己的搜索站。
+
+#### 方法 2：本地开发 (Local Development)
 
 ```bash
-# 安装依赖
+# 1. 克隆仓库
+git clone https://github.com/pxw3504k-web/free-n8n-workflows.git
+cd free-n8n-workflows
+
+# 2. 安装依赖
 npm install
 
-# 运行开发服务器
+# 3. 配置环境
+# 将 .env.example 重命名为 .env.local 并填入你的 Supabase
+# 如果是纯静态浏览，可跳过数据库配置
+
+# 4. 运行
 npm run dev
 ```
+打开浏览器访问 `http://localhost:3000` 即可看到效果。
 
-在浏览器中打开 [http://localhost:3000](http://localhost:3000)。
+---
 
-## 许可证 (License)
+### 🤝 贡献 (Contributing)
 
-MIT License. 欢迎随意使用和修改以满足你的需求。
+开源社区之所以美好，是因为有像你这样的人。任何形式的贡献（无论是提交新的 Workflow，还是修复 Bug）都深受得欢迎。
+
+1. Fork 本项目  
+2. 创建你的分支 (`git checkout -b feature/NewFeature`)  
+3. 提交修改 (`git commit -m 'Add some NewFeature'`)  
+4. 推送到分支 (`git push origin feature/NewFeature`)  
+5. 提交 Pull Request
+
+---
+
+### 📄 许可证 (License)
+
+本项目基于 **MIT 许可证** 分发。详情请参阅 [LICENSE](LICENSE) 文件。
+
+---
+
+关注我的 Twitter [@zoAoo6667168456](https://x.com/zoAoo6667168456) 以获取更多独立开发和自动化工具的更新。

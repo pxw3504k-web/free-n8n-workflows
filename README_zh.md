@@ -1,7 +1,21 @@
-🚀 Free n8n Workflows Collection (免费 n8n 工作流合集)  
-[在此处插入你的 Twitter 链接: https://x.com/zoAoo6667168456] | [https://github.com/pxw3504k-web/free-n8n-workflows.git]
+# 🚀 Free n8n Workflows Collection
 
-全网最大的 n8n 验证工作流开源合集。停止重复造轮子。复制、粘贴、开始自动化。
+<div align="center">
+
+[English](./README.md) | [简体中文](./README_zh.md) | [日本語](./README_ja.md) | [Español](./README_es.md)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fpxw3504k-web%2Ffree-n8n-workflows)
+[![GitHub stars](https://img.shields.io/github/stars/pxw3504k-web/free-n8n-workflows?style=social)](https://github.com/pxw3504k-web/free-n8n-workflows)
+[![Twitter Follow](https://img.shields.io/twitter/follow/zoAoo6667168456?style=social)](https://x.com/zoAoo6667168456)
+
+**全网最大的 n8n 验证工作流开源合集。**
+<br/>
+*停止重复造轮子。复制、粘贴、开始自动化。*
+
+[浏览工作流](https://n8nworkflows.world) · [反馈 Bug](https://github.com/pxw3504k-web/free-n8n-workflows/issues) · [功能建议](https://github.com/pxw3504k-web/free-n8n-workflows/issues)
+
+</div>
 
 ---
 

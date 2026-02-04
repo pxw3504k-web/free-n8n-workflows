@@ -2,7 +2,10 @@
 
 <div align="center">
 
-[English](https://www.google.com/search?q=./README.md) | [简体中文](https://www.google.com/search?q=./README_zh.md) | [日本語](https://www.google.com/search?q=./README_ja.md) | [Español](https://www.google.com/search?q=./README_es.md)
+[English](./README.md) | 
+[简体中文](./README_zh.md) | 
+[日本語](./README_ja.md) | 
+[Español](./README_es.md)
 
 **The largest open-source collection of verified n8n workflows.**
 

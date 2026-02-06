@@ -45,7 +45,7 @@
 - **機能**：リアルタイムかつプライベートな家族間の位置情報共有。
 - **ハイライト**：広告なし、データ販売なし。緊急時のワンタップ SOS 通知。
 - **ステータス**：クローズドベータ版をまもなく公開。
-👉 [フォームに記入してベータ版アクセス権を取得](https://forms.gle/AovsjCCybzuamHEo9)
+👉 [無料ダウンロードリンク](https://play.google.com/store/apps/details?id=com.lifeline.sos)
 
 #### 2. 🕵️‍♂️ 盗撮カメラ発見機 (Hidden Camera Detector)
 **旅行者のための必須セキュリティツール。**

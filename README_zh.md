@@ -45,7 +45,7 @@
 - **功能**：实时且私密的家人位置共享。
 - **亮点**：没有广告，不卖数据。紧急情况下一键 SOS 求救。
 - **状态**：即将发布内测。  
-👉 [填写表单 获取内测资格](https://forms.gle/AovsjCCybzuamHEo9)
+👉 [立刻免费下载](https://play.google.com/store/apps/details?id=com.lifeline.sos)
 
 #### 2. 🕵️‍♂️ 酒店防偷拍神器 (Hidden Camera Detector)
 **差旅人士必备的安全工具。**

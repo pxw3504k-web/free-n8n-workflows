@@ -48,7 +48,7 @@ Maintaining this open-source project is my hobby. If you want to support my work
 * **Feature**: Real-time and private family location sharing.
 * **Highlight**: No ads, no data selling. One-tap SOS in emergencies.
 * **Status**: Launching Closed Beta soon.
-👉 [Fill out the form to get Beta Access](https://forms.gle/AovsjCCybzuamHEo9)
+👉 [Free Download link](https://play.google.com/store/apps/details?id=com.lifeline.sos)
 
 #### 2. 🕵️‍♂️ Hidden Camera Detector
 

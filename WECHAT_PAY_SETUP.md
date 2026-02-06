@@ -6,10 +6,7 @@
 
 ```env
 # 微信支付配置
-WECHAT_APP_ID=wxbce3a3f8b107fbff
-WECHAT_MCH_ID=1720449271
-WECHAT_API_KEY=7Gp9qK2RvXmLbY4ZtA1wQc8NsD3fasqw
-WECHAT_NOTIFY_URL=https://your-domain.com/api/support/wechat/callback
+
 ```
 
 ## 微信商户平台配置
